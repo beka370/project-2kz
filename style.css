@@ -1,0 +1,66 @@
+body {
+    background-color: bisque;
+    padding-top: 400px;
+    padding-left: 600px;
+}
+
+
+.start img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.sta img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.star img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.biger-ata {
+    width: 500px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.551);
+}
+
+.bigger-aga {
+    width: 500px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 10px 5px 5px rgb(0, 0, 0, 0.551);
+}
+  .bigger-ini {
+    width: 500px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 10px 5px 5px rgb(0, 0, 0, 0.551);
+}
+.kaz {
+    display: flex;
+    gap: 30px;
+    padding-top: 30px;
+   
+}
+
+.kdw {
+    display: flex;
+}
+.shal {
+    display: flex;
+   grid-template-columns: 250px 250px 250px;
+    gap: 60px;
+}
+.qwer img {
+    height: 400px;
+    width: 500px;
+}
+.kz {
+    padding-top: 10px;
+    gap: 10px;
+}
+  span {
+    color: rgb(143, 147, 146);
+  }
